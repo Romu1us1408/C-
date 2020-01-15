@@ -1,0 +1,32 @@
+C:\Users\ldmat\OneDrive\Documents\IndianHills\Win19\C#\Unit 7\Indevidual Project\bin\Debug\netcoreapp2.2\appsettings.Development.json
+C:\Users\ldmat\OneDrive\Documents\IndianHills\Win19\C#\Unit 7\Indevidual Project\bin\Debug\netcoreapp2.2\appsettings.json
+C:\Users\ldmat\OneDrive\Documents\IndianHills\Win19\C#\Unit 7\Indevidual Project\bin\Debug\netcoreapp2.2\Properties\launchSettings.json
+C:\Users\ldmat\OneDrive\Documents\IndianHills\Win19\C#\Unit 7\Indevidual Project\bin\Debug\netcoreapp2.2\Indevidual Project.deps.json
+C:\Users\ldmat\OneDrive\Documents\IndianHills\Win19\C#\Unit 7\Indevidual Project\bin\Debug\netcoreapp2.2\Indevidual Project.runtimeconfig.json
+C:\Users\ldmat\OneDrive\Documents\IndianHills\Win19\C#\Unit 7\Indevidual Project\bin\Debug\netcoreapp2.2\Indevidual Project.runtimeconfig.dev.json
+C:\Users\ldmat\OneDrive\Documents\IndianHills\Win19\C#\Unit 7\Indevidual Project\bin\Debug\netcoreapp2.2\Indevidual Project.dll
+C:\Users\ldmat\OneDrive\Documents\IndianHills\Win19\C#\Unit 7\Indevidual Project\bin\Debug\netcoreapp2.2\Indevidual Project.pdb
+C:\Users\ldmat\OneDrive\Documents\IndianHills\Win19\C#\Unit 7\Indevidual Project\bin\Debug\netcoreapp2.2\Indevidual Project.Views.dll
+C:\Users\ldmat\OneDrive\Documents\IndianHills\Win19\C#\Unit 7\Indevidual Project\bin\Debug\netcoreapp2.2\Indevidual Project.Views.pdb
+C:\Users\ldmat\OneDrive\Documents\IndianHills\Win19\C#\Unit 7\Indevidual Project\obj\Debug\netcoreapp2.2\Indevidual Project.csprojAssemblyReference.cache
+C:\Users\ldmat\OneDrive\Documents\IndianHills\Win19\C#\Unit 7\Indevidual Project\obj\Debug\netcoreapp2.2\Indevidual Project.RazorAssemblyInfo.cache
+C:\Users\ldmat\OneDrive\Documents\IndianHills\Win19\C#\Unit 7\Indevidual Project\obj\Debug\netcoreapp2.2\Indevidual Project.RazorAssemblyInfo.cs
+C:\Users\ldmat\OneDrive\Documents\IndianHills\Win19\C#\Unit 7\Indevidual Project\obj\Debug\netcoreapp2.2\Indevidual Project.AssemblyInfoInputs.cache
+C:\Users\ldmat\OneDrive\Documents\IndianHills\Win19\C#\Unit 7\Indevidual Project\obj\Debug\netcoreapp2.2\Indevidual Project.AssemblyInfo.cs
+C:\Users\ldmat\OneDrive\Documents\IndianHills\Win19\C#\Unit 7\Indevidual Project\obj\Debug\netcoreapp2.2\Indevidual Project.TagHelpers.input.cache
+C:\Users\ldmat\OneDrive\Documents\IndianHills\Win19\C#\Unit 7\Indevidual Project\obj\Debug\netcoreapp2.2\Indevidual Project.TagHelpers.output.cache
+C:\Users\ldmat\OneDrive\Documents\IndianHills\Win19\C#\Unit 7\Indevidual Project\obj\Debug\netcoreapp2.2\Indevidual Project.RazorCoreGenerate.cache
+C:\Users\ldmat\OneDrive\Documents\IndianHills\Win19\C#\Unit 7\Indevidual Project\obj\Debug\netcoreapp2.2\Razor\Pages\Error.cshtml.g.cs
+C:\Users\ldmat\OneDrive\Documents\IndianHills\Win19\C#\Unit 7\Indevidual Project\obj\Debug\netcoreapp2.2\Razor\Pages\Index.cshtml.g.cs
+C:\Users\ldmat\OneDrive\Documents\IndianHills\Win19\C#\Unit 7\Indevidual Project\obj\Debug\netcoreapp2.2\Razor\Pages\Privacy.cshtml.g.cs
+C:\Users\ldmat\OneDrive\Documents\IndianHills\Win19\C#\Unit 7\Indevidual Project\obj\Debug\netcoreapp2.2\Razor\Pages\Shared\_CookieConsentPartial.cshtml.g.cs
+C:\Users\ldmat\OneDrive\Documents\IndianHills\Win19\C#\Unit 7\Indevidual Project\obj\Debug\netcoreapp2.2\Razor\Pages\Shared\_Layout.cshtml.g.cs
+C:\Users\ldmat\OneDrive\Documents\IndianHills\Win19\C#\Unit 7\Indevidual Project\obj\Debug\netcoreapp2.2\Razor\Pages\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\ldmat\OneDrive\Documents\IndianHills\Win19\C#\Unit 7\Indevidual Project\obj\Debug\netcoreapp2.2\Razor\Pages\_ViewImports.cshtml.g.cs
+C:\Users\ldmat\OneDrive\Documents\IndianHills\Win19\C#\Unit 7\Indevidual Project\obj\Debug\netcoreapp2.2\Razor\Pages\_ViewStart.cshtml.g.cs
+C:\Users\ldmat\OneDrive\Documents\IndianHills\Win19\C#\Unit 7\Indevidual Project\obj\Debug\netcoreapp2.2\Indevidual Project.RazorTargetAssemblyInfo.cache
+C:\Users\ldmat\OneDrive\Documents\IndianHills\Win19\C#\Unit 7\Indevidual Project\obj\Debug\netcoreapp2.2\Indevidual Project.RazorTargetAssemblyInfo.cs
+C:\Users\ldmat\OneDrive\Documents\IndianHills\Win19\C#\Unit 7\Indevidual Project\obj\Debug\netcoreapp2.2\Indevidual Project.Views.pdb
+C:\Users\ldmat\OneDrive\Documents\IndianHills\Win19\C#\Unit 7\Indevidual Project\obj\Debug\netcoreapp2.2\Indevidual Project.dll
+C:\Users\ldmat\OneDrive\Documents\IndianHills\Win19\C#\Unit 7\Indevidual Project\obj\Debug\netcoreapp2.2\Indevidual Project.pdb
+C:\Users\ldmat\OneDrive\Documents\IndianHills\Win19\C#\Unit 7\Indevidual Project\obj\Debug\netcoreapp2.2\Indevidual Project.csproj.CopyComplete

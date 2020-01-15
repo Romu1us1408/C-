@@ -1,0 +1,35 @@
+G:\Yogesh\SEO\Yogihosting\new\ASP.NET CORE MVC\API Controllers\APIConsume\APIConsume\obj\Debug\netcoreapp2.0\APIConsume.csprojResolveAssemblyReference.cache
+G:\Yogesh\SEO\Yogihosting\new\ASP.NET CORE MVC\API Controllers\APIConsume\APIConsume\obj\Debug\netcoreapp2.0\APIConsume.csproj.CoreCompileInputs.cache
+G:\Yogesh\SEO\Yogihosting\new\ASP.NET CORE MVC\API Controllers\APIConsume\APIConsume\obj\Debug\netcoreapp2.0\APIConsume.AssemblyInfoInputs.cache
+G:\Yogesh\SEO\Yogihosting\new\ASP.NET CORE MVC\API Controllers\APIConsume\APIConsume\obj\Debug\netcoreapp2.0\APIConsume.AssemblyInfo.cs
+G:\Yogesh\SEO\Yogihosting\new\ASP.NET CORE MVC\API Controllers\APIConsume\APIConsume\bin\Debug\netcoreapp2.0\APIConsume.deps.json
+G:\Yogesh\SEO\Yogihosting\new\ASP.NET CORE MVC\API Controllers\APIConsume\APIConsume\bin\Debug\netcoreapp2.0\APIConsume.runtimeconfig.json
+G:\Yogesh\SEO\Yogihosting\new\ASP.NET CORE MVC\API Controllers\APIConsume\APIConsume\bin\Debug\netcoreapp2.0\APIConsume.runtimeconfig.dev.json
+G:\Yogesh\SEO\Yogihosting\new\ASP.NET CORE MVC\API Controllers\APIConsume\APIConsume\bin\Debug\netcoreapp2.0\APIConsume.dll
+G:\Yogesh\SEO\Yogihosting\new\ASP.NET CORE MVC\API Controllers\APIConsume\APIConsume\bin\Debug\netcoreapp2.0\APIConsume.pdb
+G:\Yogesh\SEO\Yogihosting\new\ASP.NET CORE MVC\API Controllers\APIConsume\APIConsume\obj\Debug\netcoreapp2.0\APIConsume.dll
+G:\Yogesh\SEO\Yogihosting\new\ASP.NET CORE MVC\API Controllers\APIConsume\APIConsume\obj\Debug\netcoreapp2.0\APIConsume.pdb
+C:\IHCC\Advanced C#\Learning Units\Unit 5 - ASP.NET Core Web API\APIConsumeExample\APIConsume\APIConsume\bin\Debug\netcoreapp2.0\bower.json
+C:\IHCC\Advanced C#\Learning Units\Unit 5 - ASP.NET Core Web API\APIConsumeExample\APIConsume\APIConsume\bin\Debug\netcoreapp2.0\Properties\launchSettings.json
+C:\IHCC\Advanced C#\Learning Units\Unit 5 - ASP.NET Core Web API\APIConsumeExample\APIConsume\APIConsume\bin\Debug\netcoreapp2.0\APIConsume.deps.json
+C:\IHCC\Advanced C#\Learning Units\Unit 5 - ASP.NET Core Web API\APIConsumeExample\APIConsume\APIConsume\bin\Debug\netcoreapp2.0\APIConsume.runtimeconfig.json
+C:\IHCC\Advanced C#\Learning Units\Unit 5 - ASP.NET Core Web API\APIConsumeExample\APIConsume\APIConsume\bin\Debug\netcoreapp2.0\APIConsume.runtimeconfig.dev.json
+C:\IHCC\Advanced C#\Learning Units\Unit 5 - ASP.NET Core Web API\APIConsumeExample\APIConsume\APIConsume\bin\Debug\netcoreapp2.0\APIConsume.dll
+C:\IHCC\Advanced C#\Learning Units\Unit 5 - ASP.NET Core Web API\APIConsumeExample\APIConsume\APIConsume\bin\Debug\netcoreapp2.0\APIConsume.pdb
+C:\IHCC\Advanced C#\Learning Units\Unit 5 - ASP.NET Core Web API\APIConsumeExample\APIConsume\APIConsume\obj\Debug\netcoreapp2.0\APIConsume.csprojAssemblyReference.cache
+C:\IHCC\Advanced C#\Learning Units\Unit 5 - ASP.NET Core Web API\APIConsumeExample\APIConsume\APIConsume\obj\Debug\netcoreapp2.0\APIConsume.AssemblyInfoInputs.cache
+C:\IHCC\Advanced C#\Learning Units\Unit 5 - ASP.NET Core Web API\APIConsumeExample\APIConsume\APIConsume\obj\Debug\netcoreapp2.0\APIConsume.AssemblyInfo.cs
+C:\IHCC\Advanced C#\Learning Units\Unit 5 - ASP.NET Core Web API\APIConsumeExample\APIConsume\APIConsume\obj\Debug\netcoreapp2.0\APIConsume.dll
+C:\IHCC\Advanced C#\Learning Units\Unit 5 - ASP.NET Core Web API\APIConsumeExample\APIConsume\APIConsume\obj\Debug\netcoreapp2.0\APIConsume.pdb
+C:\Users\ldmat\OneDrive\Documents\IndianHills\Win19\C#\Unit 5\Web API\APIConsumeExample\APIConsume\APIConsume\bin\Debug\netcoreapp2.0\bower.json
+C:\Users\ldmat\OneDrive\Documents\IndianHills\Win19\C#\Unit 5\Web API\APIConsumeExample\APIConsume\APIConsume\bin\Debug\netcoreapp2.0\Properties\launchSettings.json
+C:\Users\ldmat\OneDrive\Documents\IndianHills\Win19\C#\Unit 5\Web API\APIConsumeExample\APIConsume\APIConsume\bin\Debug\netcoreapp2.0\APIConsume.deps.json
+C:\Users\ldmat\OneDrive\Documents\IndianHills\Win19\C#\Unit 5\Web API\APIConsumeExample\APIConsume\APIConsume\bin\Debug\netcoreapp2.0\APIConsume.runtimeconfig.json
+C:\Users\ldmat\OneDrive\Documents\IndianHills\Win19\C#\Unit 5\Web API\APIConsumeExample\APIConsume\APIConsume\bin\Debug\netcoreapp2.0\APIConsume.runtimeconfig.dev.json
+C:\Users\ldmat\OneDrive\Documents\IndianHills\Win19\C#\Unit 5\Web API\APIConsumeExample\APIConsume\APIConsume\bin\Debug\netcoreapp2.0\APIConsume.dll
+C:\Users\ldmat\OneDrive\Documents\IndianHills\Win19\C#\Unit 5\Web API\APIConsumeExample\APIConsume\APIConsume\bin\Debug\netcoreapp2.0\APIConsume.pdb
+C:\Users\ldmat\OneDrive\Documents\IndianHills\Win19\C#\Unit 5\Web API\APIConsumeExample\APIConsume\APIConsume\obj\Debug\netcoreapp2.0\APIConsume.csprojAssemblyReference.cache
+C:\Users\ldmat\OneDrive\Documents\IndianHills\Win19\C#\Unit 5\Web API\APIConsumeExample\APIConsume\APIConsume\obj\Debug\netcoreapp2.0\APIConsume.AssemblyInfoInputs.cache
+C:\Users\ldmat\OneDrive\Documents\IndianHills\Win19\C#\Unit 5\Web API\APIConsumeExample\APIConsume\APIConsume\obj\Debug\netcoreapp2.0\APIConsume.AssemblyInfo.cs
+C:\Users\ldmat\OneDrive\Documents\IndianHills\Win19\C#\Unit 5\Web API\APIConsumeExample\APIConsume\APIConsume\obj\Debug\netcoreapp2.0\APIConsume.dll
+C:\Users\ldmat\OneDrive\Documents\IndianHills\Win19\C#\Unit 5\Web API\APIConsumeExample\APIConsume\APIConsume\obj\Debug\netcoreapp2.0\APIConsume.pdb

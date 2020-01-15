@@ -8052,11 +8052,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\ldmat\\OneDrive\\Documents\\Indian Hills\\Win19\\C#\\Unit 2\\RazorPagesMovie\\RazorPagesMovie.csproj",
+      "projectUniqueName": "C:\\Users\\ldmat\\OneDrive\\Documents\\IndianHills\\Win19\\C#\\Unit 2\\RazorPagesMovie\\RazorPagesMovie.csproj",
       "projectName": "RazorPagesMovie",
-      "projectPath": "C:\\Users\\ldmat\\OneDrive\\Documents\\Indian Hills\\Win19\\C#\\Unit 2\\RazorPagesMovie\\RazorPagesMovie.csproj",
+      "projectPath": "C:\\Users\\ldmat\\OneDrive\\Documents\\IndianHills\\Win19\\C#\\Unit 2\\RazorPagesMovie\\RazorPagesMovie.csproj",
       "packagesPath": "C:\\Users\\ldmat\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\ldmat\\OneDrive\\Documents\\Indian Hills\\Win19\\C#\\Unit 2\\RazorPagesMovie\\obj\\",
+      "outputPath": "C:\\Users\\ldmat\\OneDrive\\Documents\\IndianHills\\Win19\\C#\\Unit 2\\RazorPagesMovie\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\PROGRAM FILES\\DOTNET\\sdk\\NuGetFallbackFolder"

@@ -1,0 +1,16 @@
+C:\Users\ldmat\OneDrive\Documents\IndianHills\Win19\C#\Unit 5\TodoApi\bin\Debug\netcoreapp2.2\appsettings.Development.json
+C:\Users\ldmat\OneDrive\Documents\IndianHills\Win19\C#\Unit 5\TodoApi\bin\Debug\netcoreapp2.2\appsettings.json
+C:\Users\ldmat\OneDrive\Documents\IndianHills\Win19\C#\Unit 5\TodoApi\bin\Debug\netcoreapp2.2\Properties\launchSettings.json
+C:\Users\ldmat\OneDrive\Documents\IndianHills\Win19\C#\Unit 5\TodoApi\bin\Debug\netcoreapp2.2\TodoApi.deps.json
+C:\Users\ldmat\OneDrive\Documents\IndianHills\Win19\C#\Unit 5\TodoApi\bin\Debug\netcoreapp2.2\TodoApi.runtimeconfig.json
+C:\Users\ldmat\OneDrive\Documents\IndianHills\Win19\C#\Unit 5\TodoApi\bin\Debug\netcoreapp2.2\TodoApi.runtimeconfig.dev.json
+C:\Users\ldmat\OneDrive\Documents\IndianHills\Win19\C#\Unit 5\TodoApi\bin\Debug\netcoreapp2.2\TodoApi.dll
+C:\Users\ldmat\OneDrive\Documents\IndianHills\Win19\C#\Unit 5\TodoApi\bin\Debug\netcoreapp2.2\TodoApi.pdb
+C:\Users\ldmat\OneDrive\Documents\IndianHills\Win19\C#\Unit 5\TodoApi\obj\Debug\netcoreapp2.2\TodoApi.csprojAssemblyReference.cache
+C:\Users\ldmat\OneDrive\Documents\IndianHills\Win19\C#\Unit 5\TodoApi\obj\Debug\netcoreapp2.2\TodoApi.RazorAssemblyInfo.cache
+C:\Users\ldmat\OneDrive\Documents\IndianHills\Win19\C#\Unit 5\TodoApi\obj\Debug\netcoreapp2.2\TodoApi.RazorAssemblyInfo.cs
+C:\Users\ldmat\OneDrive\Documents\IndianHills\Win19\C#\Unit 5\TodoApi\obj\Debug\netcoreapp2.2\TodoApi.AssemblyInfoInputs.cache
+C:\Users\ldmat\OneDrive\Documents\IndianHills\Win19\C#\Unit 5\TodoApi\obj\Debug\netcoreapp2.2\TodoApi.AssemblyInfo.cs
+C:\Users\ldmat\OneDrive\Documents\IndianHills\Win19\C#\Unit 5\TodoApi\obj\Debug\netcoreapp2.2\TodoApi.RazorTargetAssemblyInfo.cache
+C:\Users\ldmat\OneDrive\Documents\IndianHills\Win19\C#\Unit 5\TodoApi\obj\Debug\netcoreapp2.2\TodoApi.dll
+C:\Users\ldmat\OneDrive\Documents\IndianHills\Win19\C#\Unit 5\TodoApi\obj\Debug\netcoreapp2.2\TodoApi.pdb

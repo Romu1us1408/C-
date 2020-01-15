@@ -1,0 +1,70 @@
+C:\IHCC\Advanced C#\Learning Units\Unit 5 - ASP.NET Core Web API\APIConsumeWithDatabase\bin\Debug\netcoreapp2.2\appsettings.Development.json
+C:\IHCC\Advanced C#\Learning Units\Unit 5 - ASP.NET Core Web API\APIConsumeWithDatabase\bin\Debug\netcoreapp2.2\appsettings.json
+C:\IHCC\Advanced C#\Learning Units\Unit 5 - ASP.NET Core Web API\APIConsumeWithDatabase\bin\Debug\netcoreapp2.2\Properties\launchSettings.json
+C:\IHCC\Advanced C#\Learning Units\Unit 5 - ASP.NET Core Web API\APIConsumeWithDatabase\bin\Debug\netcoreapp2.2\APIConsumeWithDatabase.deps.json
+C:\IHCC\Advanced C#\Learning Units\Unit 5 - ASP.NET Core Web API\APIConsumeWithDatabase\bin\Debug\netcoreapp2.2\APIConsumeWithDatabase.runtimeconfig.json
+C:\IHCC\Advanced C#\Learning Units\Unit 5 - ASP.NET Core Web API\APIConsumeWithDatabase\bin\Debug\netcoreapp2.2\APIConsumeWithDatabase.runtimeconfig.dev.json
+C:\IHCC\Advanced C#\Learning Units\Unit 5 - ASP.NET Core Web API\APIConsumeWithDatabase\bin\Debug\netcoreapp2.2\APIConsumeWithDatabase.dll
+C:\IHCC\Advanced C#\Learning Units\Unit 5 - ASP.NET Core Web API\APIConsumeWithDatabase\bin\Debug\netcoreapp2.2\APIConsumeWithDatabase.pdb
+C:\IHCC\Advanced C#\Learning Units\Unit 5 - ASP.NET Core Web API\APIConsumeWithDatabase\bin\Debug\netcoreapp2.2\APIConsumeWithDatabase.Views.dll
+C:\IHCC\Advanced C#\Learning Units\Unit 5 - ASP.NET Core Web API\APIConsumeWithDatabase\bin\Debug\netcoreapp2.2\APIConsumeWithDatabase.Views.pdb
+C:\IHCC\Advanced C#\Learning Units\Unit 5 - ASP.NET Core Web API\APIConsumeWithDatabase\obj\Debug\netcoreapp2.2\APIConsumeWithDatabase.csprojAssemblyReference.cache
+C:\IHCC\Advanced C#\Learning Units\Unit 5 - ASP.NET Core Web API\APIConsumeWithDatabase\obj\Debug\netcoreapp2.2\APIConsumeWithDatabase.RazorAssemblyInfo.cache
+C:\IHCC\Advanced C#\Learning Units\Unit 5 - ASP.NET Core Web API\APIConsumeWithDatabase\obj\Debug\netcoreapp2.2\APIConsumeWithDatabase.RazorAssemblyInfo.cs
+C:\IHCC\Advanced C#\Learning Units\Unit 5 - ASP.NET Core Web API\APIConsumeWithDatabase\obj\Debug\netcoreapp2.2\APIConsumeWithDatabase.AssemblyInfoInputs.cache
+C:\IHCC\Advanced C#\Learning Units\Unit 5 - ASP.NET Core Web API\APIConsumeWithDatabase\obj\Debug\netcoreapp2.2\APIConsumeWithDatabase.AssemblyInfo.cs
+C:\IHCC\Advanced C#\Learning Units\Unit 5 - ASP.NET Core Web API\APIConsumeWithDatabase\obj\Debug\netcoreapp2.2\APIConsumeWithDatabase.TagHelpers.input.cache
+C:\IHCC\Advanced C#\Learning Units\Unit 5 - ASP.NET Core Web API\APIConsumeWithDatabase\obj\Debug\netcoreapp2.2\APIConsumeWithDatabase.TagHelpers.output.cache
+C:\IHCC\Advanced C#\Learning Units\Unit 5 - ASP.NET Core Web API\APIConsumeWithDatabase\obj\Debug\netcoreapp2.2\APIConsumeWithDatabase.RazorCoreGenerate.cache
+C:\IHCC\Advanced C#\Learning Units\Unit 5 - ASP.NET Core Web API\APIConsumeWithDatabase\obj\Debug\netcoreapp2.2\Razor\Views\Home\Index.cshtml.g.cs
+C:\IHCC\Advanced C#\Learning Units\Unit 5 - ASP.NET Core Web API\APIConsumeWithDatabase\obj\Debug\netcoreapp2.2\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\IHCC\Advanced C#\Learning Units\Unit 5 - ASP.NET Core Web API\APIConsumeWithDatabase\obj\Debug\netcoreapp2.2\Razor\Views\Shared\Error.cshtml.g.cs
+C:\IHCC\Advanced C#\Learning Units\Unit 5 - ASP.NET Core Web API\APIConsumeWithDatabase\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_CookieConsentPartial.cshtml.g.cs
+C:\IHCC\Advanced C#\Learning Units\Unit 5 - ASP.NET Core Web API\APIConsumeWithDatabase\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\IHCC\Advanced C#\Learning Units\Unit 5 - ASP.NET Core Web API\APIConsumeWithDatabase\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\IHCC\Advanced C#\Learning Units\Unit 5 - ASP.NET Core Web API\APIConsumeWithDatabase\obj\Debug\netcoreapp2.2\Razor\Views\_ViewImports.cshtml.g.cs
+C:\IHCC\Advanced C#\Learning Units\Unit 5 - ASP.NET Core Web API\APIConsumeWithDatabase\obj\Debug\netcoreapp2.2\Razor\Views\_ViewStart.cshtml.g.cs
+C:\IHCC\Advanced C#\Learning Units\Unit 5 - ASP.NET Core Web API\APIConsumeWithDatabase\obj\Debug\netcoreapp2.2\APIConsumeWithDatabase.RazorTargetAssemblyInfo.cache
+C:\IHCC\Advanced C#\Learning Units\Unit 5 - ASP.NET Core Web API\APIConsumeWithDatabase\obj\Debug\netcoreapp2.2\APIConsumeWithDatabase.RazorTargetAssemblyInfo.cs
+C:\IHCC\Advanced C#\Learning Units\Unit 5 - ASP.NET Core Web API\APIConsumeWithDatabase\obj\Debug\netcoreapp2.2\APIConsumeWithDatabase.Views.pdb
+C:\IHCC\Advanced C#\Learning Units\Unit 5 - ASP.NET Core Web API\APIConsumeWithDatabase\obj\Debug\netcoreapp2.2\APIConsumeWithDatabase.dll
+C:\IHCC\Advanced C#\Learning Units\Unit 5 - ASP.NET Core Web API\APIConsumeWithDatabase\obj\Debug\netcoreapp2.2\APIConsumeWithDatabase.pdb
+C:\IHCC\Advanced C#\Learning Units\Unit 5 - ASP.NET Core Web API\APIConsumeWithDatabase\obj\Debug\netcoreapp2.2\APIConsumeWithDatabase.csproj.CopyComplete
+C:\IHCC\Advanced C#\Learning Units\Unit 5 - ASP.NET Core Web API\APIConsumeWithDatabase\obj\Debug\netcoreapp2.2\Razor\Views\Home\GetReservation.cshtml.g.cs
+C:\IHCC\Advanced C#\Learning Units\Unit 5 - ASP.NET Core Web API\APIConsumeWithDatabase\obj\Debug\netcoreapp2.2\Razor\Views\Home\AddReservation.cshtml.g.cs
+C:\IHCC\Advanced C#\Learning Units\Unit 5 - ASP.NET Core Web API\APIConsumeWithDatabase\obj\Debug\netcoreapp2.2\Razor\Views\Home\UpdateReservation.cshtml.g.cs
+C:\Users\ldmat\OneDrive\Documents\IndianHills\Win19\C#\Unit 5\API EXAMPLE WITH DATABASE\APIConsumeWithDatabase\bin\Debug\netcoreapp2.2\appsettings.Development.json
+C:\Users\ldmat\OneDrive\Documents\IndianHills\Win19\C#\Unit 5\API EXAMPLE WITH DATABASE\APIConsumeWithDatabase\bin\Debug\netcoreapp2.2\appsettings.json
+C:\Users\ldmat\OneDrive\Documents\IndianHills\Win19\C#\Unit 5\API EXAMPLE WITH DATABASE\APIConsumeWithDatabase\bin\Debug\netcoreapp2.2\Properties\launchSettings.json
+C:\Users\ldmat\OneDrive\Documents\IndianHills\Win19\C#\Unit 5\API EXAMPLE WITH DATABASE\APIConsumeWithDatabase\bin\Debug\netcoreapp2.2\APIConsumeWithDatabase.deps.json
+C:\Users\ldmat\OneDrive\Documents\IndianHills\Win19\C#\Unit 5\API EXAMPLE WITH DATABASE\APIConsumeWithDatabase\bin\Debug\netcoreapp2.2\APIConsumeWithDatabase.runtimeconfig.json
+C:\Users\ldmat\OneDrive\Documents\IndianHills\Win19\C#\Unit 5\API EXAMPLE WITH DATABASE\APIConsumeWithDatabase\bin\Debug\netcoreapp2.2\APIConsumeWithDatabase.runtimeconfig.dev.json
+C:\Users\ldmat\OneDrive\Documents\IndianHills\Win19\C#\Unit 5\API EXAMPLE WITH DATABASE\APIConsumeWithDatabase\bin\Debug\netcoreapp2.2\APIConsumeWithDatabase.dll
+C:\Users\ldmat\OneDrive\Documents\IndianHills\Win19\C#\Unit 5\API EXAMPLE WITH DATABASE\APIConsumeWithDatabase\bin\Debug\netcoreapp2.2\APIConsumeWithDatabase.pdb
+C:\Users\ldmat\OneDrive\Documents\IndianHills\Win19\C#\Unit 5\API EXAMPLE WITH DATABASE\APIConsumeWithDatabase\bin\Debug\netcoreapp2.2\APIConsumeWithDatabase.Views.dll
+C:\Users\ldmat\OneDrive\Documents\IndianHills\Win19\C#\Unit 5\API EXAMPLE WITH DATABASE\APIConsumeWithDatabase\bin\Debug\netcoreapp2.2\APIConsumeWithDatabase.Views.pdb
+C:\Users\ldmat\OneDrive\Documents\IndianHills\Win19\C#\Unit 5\API EXAMPLE WITH DATABASE\APIConsumeWithDatabase\obj\Debug\netcoreapp2.2\APIConsumeWithDatabase.csprojAssemblyReference.cache
+C:\Users\ldmat\OneDrive\Documents\IndianHills\Win19\C#\Unit 5\API EXAMPLE WITH DATABASE\APIConsumeWithDatabase\obj\Debug\netcoreapp2.2\APIConsumeWithDatabase.RazorAssemblyInfo.cache
+C:\Users\ldmat\OneDrive\Documents\IndianHills\Win19\C#\Unit 5\API EXAMPLE WITH DATABASE\APIConsumeWithDatabase\obj\Debug\netcoreapp2.2\APIConsumeWithDatabase.RazorAssemblyInfo.cs
+C:\Users\ldmat\OneDrive\Documents\IndianHills\Win19\C#\Unit 5\API EXAMPLE WITH DATABASE\APIConsumeWithDatabase\obj\Debug\netcoreapp2.2\APIConsumeWithDatabase.AssemblyInfoInputs.cache
+C:\Users\ldmat\OneDrive\Documents\IndianHills\Win19\C#\Unit 5\API EXAMPLE WITH DATABASE\APIConsumeWithDatabase\obj\Debug\netcoreapp2.2\APIConsumeWithDatabase.AssemblyInfo.cs
+C:\Users\ldmat\OneDrive\Documents\IndianHills\Win19\C#\Unit 5\API EXAMPLE WITH DATABASE\APIConsumeWithDatabase\obj\Debug\netcoreapp2.2\APIConsumeWithDatabase.TagHelpers.input.cache
+C:\Users\ldmat\OneDrive\Documents\IndianHills\Win19\C#\Unit 5\API EXAMPLE WITH DATABASE\APIConsumeWithDatabase\obj\Debug\netcoreapp2.2\APIConsumeWithDatabase.TagHelpers.output.cache
+C:\Users\ldmat\OneDrive\Documents\IndianHills\Win19\C#\Unit 5\API EXAMPLE WITH DATABASE\APIConsumeWithDatabase\obj\Debug\netcoreapp2.2\APIConsumeWithDatabase.RazorCoreGenerate.cache
+C:\Users\ldmat\OneDrive\Documents\IndianHills\Win19\C#\Unit 5\API EXAMPLE WITH DATABASE\APIConsumeWithDatabase\obj\Debug\netcoreapp2.2\Razor\Views\Home\AddReservation.cshtml.g.cs
+C:\Users\ldmat\OneDrive\Documents\IndianHills\Win19\C#\Unit 5\API EXAMPLE WITH DATABASE\APIConsumeWithDatabase\obj\Debug\netcoreapp2.2\Razor\Views\Home\GetReservation.cshtml.g.cs
+C:\Users\ldmat\OneDrive\Documents\IndianHills\Win19\C#\Unit 5\API EXAMPLE WITH DATABASE\APIConsumeWithDatabase\obj\Debug\netcoreapp2.2\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\ldmat\OneDrive\Documents\IndianHills\Win19\C#\Unit 5\API EXAMPLE WITH DATABASE\APIConsumeWithDatabase\obj\Debug\netcoreapp2.2\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\Users\ldmat\OneDrive\Documents\IndianHills\Win19\C#\Unit 5\API EXAMPLE WITH DATABASE\APIConsumeWithDatabase\obj\Debug\netcoreapp2.2\Razor\Views\Home\UpdateReservation.cshtml.g.cs
+C:\Users\ldmat\OneDrive\Documents\IndianHills\Win19\C#\Unit 5\API EXAMPLE WITH DATABASE\APIConsumeWithDatabase\obj\Debug\netcoreapp2.2\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\ldmat\OneDrive\Documents\IndianHills\Win19\C#\Unit 5\API EXAMPLE WITH DATABASE\APIConsumeWithDatabase\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_CookieConsentPartial.cshtml.g.cs
+C:\Users\ldmat\OneDrive\Documents\IndianHills\Win19\C#\Unit 5\API EXAMPLE WITH DATABASE\APIConsumeWithDatabase\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\ldmat\OneDrive\Documents\IndianHills\Win19\C#\Unit 5\API EXAMPLE WITH DATABASE\APIConsumeWithDatabase\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\ldmat\OneDrive\Documents\IndianHills\Win19\C#\Unit 5\API EXAMPLE WITH DATABASE\APIConsumeWithDatabase\obj\Debug\netcoreapp2.2\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\ldmat\OneDrive\Documents\IndianHills\Win19\C#\Unit 5\API EXAMPLE WITH DATABASE\APIConsumeWithDatabase\obj\Debug\netcoreapp2.2\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\ldmat\OneDrive\Documents\IndianHills\Win19\C#\Unit 5\API EXAMPLE WITH DATABASE\APIConsumeWithDatabase\obj\Debug\netcoreapp2.2\APIConsumeWithDatabase.RazorTargetAssemblyInfo.cache
+C:\Users\ldmat\OneDrive\Documents\IndianHills\Win19\C#\Unit 5\API EXAMPLE WITH DATABASE\APIConsumeWithDatabase\obj\Debug\netcoreapp2.2\APIConsumeWithDatabase.RazorTargetAssemblyInfo.cs
+C:\Users\ldmat\OneDrive\Documents\IndianHills\Win19\C#\Unit 5\API EXAMPLE WITH DATABASE\APIConsumeWithDatabase\obj\Debug\netcoreapp2.2\APIConsumeWithDatabase.Views.pdb
+C:\Users\ldmat\OneDrive\Documents\IndianHills\Win19\C#\Unit 5\API EXAMPLE WITH DATABASE\APIConsumeWithDatabase\obj\Debug\netcoreapp2.2\APIConsumeWithDatabase.dll
+C:\Users\ldmat\OneDrive\Documents\IndianHills\Win19\C#\Unit 5\API EXAMPLE WITH DATABASE\APIConsumeWithDatabase\obj\Debug\netcoreapp2.2\APIConsumeWithDatabase.pdb
+C:\Users\ldmat\OneDrive\Documents\IndianHills\Win19\C#\Unit 5\API EXAMPLE WITH DATABASE\APIConsumeWithDatabase\obj\Debug\netcoreapp2.2\APIConsumeWithDatabase.csproj.CopyComplete
